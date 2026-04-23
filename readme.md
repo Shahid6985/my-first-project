@@ -4,3 +4,4 @@ I am exploring commits and version control.
 - Created my first repository Made my first commit Understanding how GitHub works.
 I am learning Web3 and open source This is my practice project for GitHub.
 - Learn GitHub properly Contribute to open source  Build useful projects in future.
+Adding more content to improve my GitHub activity Practicing commits regularly.
