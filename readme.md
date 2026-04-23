@@ -2,3 +2,4 @@ i am a base caster
 This repository is created to learn GitHub.
 I am exploring commits and version control.
 - Created my first repository Made my first commit Understanding how GitHub works.
+I am learning Web3 and open source This is my practice project for GitHub.
