@@ -5,3 +5,4 @@ I am exploring commits and version control.
 I am learning Web3 and open source This is my practice project for GitHub.
 - Learn GitHub properly Contribute to open source  Build useful projects in future.
 Adding more content to improve my GitHub activity Practicing commits regularly.
+todaay i learned hot to deploy contracts.
