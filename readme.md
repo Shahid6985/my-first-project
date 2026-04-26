@@ -11,3 +11,4 @@ I created new commits and updated my repository.
 How to edit files in GitHub
 How to create meaningful commits
 Importance of consistency
+I am aiming to complete 100 commits for practice and learning.
