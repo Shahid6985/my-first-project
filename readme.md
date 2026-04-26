@@ -10,3 +10,4 @@ Today I worked on improving my GitHub activity.
 I created new commits and updated my repository.
 How to edit files in GitHub
 How to create meaningful commits
+Importance of consistency
