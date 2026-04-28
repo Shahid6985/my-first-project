@@ -14,3 +14,5 @@ Importance of consistency
 I am aiming to complete 100 commits for practice and learning.
 # day 12
 Today I continued working on my GitHub activity.
+### What I did:
+ Added a new commit to my repository
