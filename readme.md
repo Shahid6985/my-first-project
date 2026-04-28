@@ -22,3 +22,4 @@ Improved my understanding of version control
 Learned about basic GitHub workflow
  Repository creation
 File editing
+Commit process
