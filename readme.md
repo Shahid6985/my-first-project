@@ -17,3 +17,4 @@ Today I continued working on my GitHub activity.
 ### What I did:
  Added a new commit to my repository
 Practiced editing files
+Improved my understanding of version control
