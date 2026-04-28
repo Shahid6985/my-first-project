@@ -18,3 +18,5 @@ Today I continued working on my GitHub activity.
  Added a new commit to my repository
 Practiced editing files
 Improved my understanding of version control
+## - Git Basics
+Learned about basic GitHub workflow
