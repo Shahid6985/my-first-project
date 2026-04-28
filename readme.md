@@ -21,3 +21,4 @@ Improved my understanding of version control
 ## - Git Basics
 Learned about basic GitHub workflow
  Repository creation
+File editing
